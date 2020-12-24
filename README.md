@@ -1,1 +1,1 @@
-# excract
+# extract information
